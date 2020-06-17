@@ -1,0 +1,17 @@
+- name: HOME
+  url: /
+  icon: home
+- name: CATEGORY
+  url: /category/
+  icon: "&#xe53b;"
+- name: TAGS
+  url: /tags/
+  icon: "&#xe893;"
+- name: GITHUB
+  url: https://github.com/WuJunwei99
+  icon: "&#xe8a3;"
+- name: ABOUT
+  url: /myself/2020/06/07/about.html
+  icon: "brush"
+- name: navSearch
+  switch: true
