@@ -2,7 +2,7 @@
 layout: post
 title: "git 学习笔记（7）"
 date: 2020-06-11 18:26:45 +0800
-categories: living
+categories: notes
 tags: git
 img: https://www.z4a.net/images/2020/06/10/u4248224721330618640fm26gp0.jpg
 ---
