@@ -38,7 +38,7 @@ img: https://s1.ax1x.com/2020/06/20/NlFAcn.png
 
 云计算是分布式计算、并行计算、效用计算、虚拟化、网络存储、负载均衡、热备份冗余等传统计算机和网络技术发展融合的产物，更是SaaS、SOA等技术混合演进的结果，下图所示的五大契机更是直接促进了云计算的诞生。
 
-    ![](https://s1.ax1x.com/2020/06/20/NlpnKK.md.png)
+![](https://s1.ax1x.com/2020/06/20/NlpnKK.md.png)
 
 ## 云计算的服务类型
 
@@ -46,7 +46,7 @@ img: https://s1.ax1x.com/2020/06/20/NlFAcn.png
 
 IaaS是把计算、存储、网络以及搭建应用环境所需的一些工具当成服务提供给用户，使得用户能够按需获取IT基础设施。IaaS主要由计算机硬件、网络、存储设备、平台虚拟化环境、效用计费方法、服务级别协议等组成。IaaS服务模式如图所示。
 
-    ![](https://s1.ax1x.com/2020/06/20/NlpV81.md.png)
+![](https://s1.ax1x.com/2020/06/20/NlpV81.md.png)
 
 
 #### 特点
@@ -68,7 +68,7 @@ IaaS是把计算、存储、网络以及搭建应用环境所需的一些工具�
 
 #### 优势
 
-    ![](https://s1.ax1x.com/2020/06/20/NlpZgx.png)
+![](https://s1.ax1x.com/2020/06/20/NlpZgx.png)
 
 
 ### 平台即服务(PaaS)
@@ -91,7 +91,7 @@ PaaS的主要用户是开发人员，PaaS平台的种类目前较少，比较著
 
 #### 服务示意图
 
-    ![](https://s1.ax1x.com/2020/06/20/NlPBIe.md.png)
+![](https://s1.ax1x.com/2020/06/20/NlPBIe.md.png)
 
 #### 优势
 
@@ -110,15 +110,15 @@ SaaS就是软件服务提供商为了满足用户的需求提供的软件的计�
 
 SaaS是出现最早的云计算服务，其前身是ASP，最早的ASP厂商有Citrix、Salesforce.com和Netsuite等。
 
-    ![](https://s1.ax1x.com/2020/06/20/NlPsGd.png)
+![](https://s1.ax1x.com/2020/06/20/NlPsGd.png)
   
 #### 优势
 
-    ![](https://s1.ax1x.com/2020/06/20/NlPrPH.png)
+![](https://s1.ax1x.com/2020/06/20/NlPrPH.png)
 
 #### 关键技术
 
-    ![](https://s1.ax1x.com/2020/06/20/NlPyRA.png)
+![](https://s1.ax1x.com/2020/06/20/NlPyRA.png)
 
 ## 部署模式
 
