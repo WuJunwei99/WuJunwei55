@@ -3,7 +3,7 @@ layout: post
 title: "云计算 学习笔记（3）"
 date: 2020-06-20 18:28:52 +0800
 categories: notes
-tags: cloud-computing 分布式
+tags: cloud-computing Distributed
 img: https://s1.ax1x.com/2020/06/20/NlFAcn.png
 ---
 Google文件系统GFS，分布式数据处理MapReduce
