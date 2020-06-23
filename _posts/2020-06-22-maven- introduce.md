@@ -4,7 +4,7 @@ title: "maven 学习笔记（1）"
 date: 2020-06-22 15:22:14 +0800
 categories: notes
 tags: maven
-img: https://s1.ax1x.com/2020/06/23/NUrrp4.md.png
+img: https://s1.ax1x.com/2020/06/23/NUss58.png
 ---
 maven概述 配置本地仓库
 
