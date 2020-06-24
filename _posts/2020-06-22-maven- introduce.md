@@ -6,7 +6,7 @@ categories: notes
 tags: maven
 img: https://s1.ax1x.com/2020/06/23/NUss58.png
 ---
-maven概述 配置本地仓库
+maven概述 配置本地仓库 构建helloworld项目(命令方式) 操作项目工程（命令方式）
 
 
 ##  maven概述
