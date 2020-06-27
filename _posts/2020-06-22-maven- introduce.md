@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "maven 学习笔记（1）"
+title: "maven 学习笔记（1）maven概述"
 date: 2020-06-22 15:22:14 +0800
 categories: notes
 tags: maven
