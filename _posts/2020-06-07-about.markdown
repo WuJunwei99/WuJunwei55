@@ -2,7 +2,7 @@
 layout: post
 title: about myself
 date: 2020-06-07 14:32:12 +0800
-categories: myself
+categories: living
 tags:
 img: https://www.z4a.net/images/2020/06/10/IMG_20200610_144135.md.jpg
 ---
