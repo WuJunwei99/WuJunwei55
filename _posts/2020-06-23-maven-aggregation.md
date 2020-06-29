@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "maven 学习笔记（3）——聚合（多模块）和继承"
+title: "maven 学习笔记（3）——聚合和继承"
 date: 2020-06-23 19:15:24 +0800
 categories: notes
 tags: maven
