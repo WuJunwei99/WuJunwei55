@@ -6,7 +6,7 @@ categories: notes
 tags: mybatis
 img: https://s1.ax1x.com/2020/06/29/Nfjd8f.png
 ---
-传统方式mybatis的增，删，改，查实现与
+传统方式mybatis的增，删，改，查实现与Mapper接口方式的mybatis的增，删，改，查实现
 
 
 ## 传统方式mybatis的增，删，改，查实现
