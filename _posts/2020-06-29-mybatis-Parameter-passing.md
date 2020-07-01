@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "mybatis 学习笔记（4）——mybatis的参数传递和自定义结果集"
-date: 2020-06-29 18:22:15 +0800
+date: 2020-06-29 21:25:55 +0800
 categories: notes
 tags: mybatis
 img: https://s1.ax1x.com/2020/06/29/Nfjd8f.png
