@@ -276,24 +276,23 @@ property 标签value属性是我们给mybatis定义的一个简短的标识。
 2. 使用mapper接口的形式导入配置
 3. 使用包扫描的方式引入配置文件
 
-    <!-- 从classpath路径下导入指定的配置文件 -->
+<!-- 从classpath路径下导入指定的配置文件 -->
+	<mappers>
+		<mapper resource="org/mybatis/builder/AuthorMapper.xml" />
+		<mapper resource="org/mybatis/builder/BlogMapper.xml" />
+		<mapper resource="org/mybatis/builder/PostMapper.xml" />
+	</mappers>
+	<!-- 使用mapper接口类导入配置文件 -->
+	<mappers>
+		<mapper class="org.mybatis.builder.AuthorMapper" />
+		<mapper class="org.mybatis.builder.BlogMapper" />
+		<mapper class="org.mybatis.builder.PostMapper" />
+	</mappers>
+	<!-- 扫描包下所有的配置文件
+    1、接口名和Mapper配置文件名必须相同
+    2、接口文件和Mapper配置文件必须在同一个包下
+     	-->
     	<mappers>
-    		<mapper resource="org/mybatis/builder/AuthorMapper.xml" />
-    		<mapper resource="org/mybatis/builder/BlogMapper.xml" />
-    		<mapper resource="org/mybatis/builder/PostMapper.xml" />
+    		<package name="org.mybatis.builder" />
     	</mappers>
-    	<!-- 使用mapper接口类导入配置文件 -->
-    	<mappers>
-    		<mapper class="org.mybatis.builder.AuthorMapper" />
-    		<mapper class="org.mybatis.builder.BlogMapper" />
-    		<mapper class="org.mybatis.builder.PostMapper" />
-    	</mappers>
-    	<!-- 扫描包下所有的配置文件
-	    1、接口名和Mapper配置文件名必须相同
-	    2、接口文件和Mapper配置文件必须在同一个包下
-	     	-->
-	    	<mappers>
-	    		<package name="org.mybatis.builder" />
-	    	</mappers>
 
-...
