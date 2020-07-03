@@ -42,12 +42,12 @@ applicationContext.xml配置文件：
 
 实验7：测试使用null值
 
-<property name="name" value="null">表示的是name值为“null”字符串，若想设置name为null，应该写：
-
-		<property name="name">
-			<!-- null子标签表示赋null值 -->
-			<null></null>
-		</property>
+    <property name="name" value="null">表示的是name值为“null”字符串，若想设置name为null，应该写：
+    
+    		<property name="name">
+    			<!-- null子标签表示赋null值 -->
+    			<null></null>
+    		</property>
 
 applicationContext.xml配置文件：
 
