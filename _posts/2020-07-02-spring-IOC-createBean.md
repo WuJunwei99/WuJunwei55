@@ -6,7 +6,7 @@ categories: notes
 tags: spring
 img: https://s1.ax1x.com/2020/07/02/NqzFiV.png
 ---
-=内部Bean的使用，工厂实例方法创建Bean，工厂实例方法创建Bean，自动注入，Bean的单例和多例
+内部Bean的使用，工厂实例方法创建Bean，工厂实例方法创建Bean，自动注入，Bean的单例和多例
 
 
 ## IOC之静态工厂方法创建Bean

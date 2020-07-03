@@ -3,7 +3,7 @@ layout: post
 title: "Spring 学习笔记（1）——Spring概述和IOC示例程序"
 date: 2020-07-01 13:24:36 +0800
 categories: notes
-tags: Spring
+tags: spring
 img: https://s1.ax1x.com/2020/07/02/NqzFiV.png
 ---
 Spring概述，IOC的几种示例程序：通过id获取对象；通过类型获取对象；通过构造方法参数名；index属性指定；根据参数类型注入；
