@@ -3,12 +3,12 @@ layout: post
 title: "Spring 学习笔记（2）——IOC的赋值"
 date: 2020-07-01 20:17:53 +0800
 categories: notes
-tags: Spring
+tags: spring
 img: https://s1.ax1x.com/2020/07/02/NqzFiV.png
 ---
-IOC之 P名称空间，IOC的一些属性的赋值，IOC之子对象的赋值测试
+IOC之P名称空间，IOC的一些属性的赋值，IOC之子对象的赋值测试
 
-## IOC之 P名称空间
+## IOC之P名称空间
 
 p名称空间，是一种通过简短属性方式调用setXxx方法赋值属性的技术
 

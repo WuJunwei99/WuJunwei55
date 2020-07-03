@@ -3,7 +3,7 @@ layout: post
 title: "Spring 学习笔记（3）——IOC方法创建Bean"
 date: 2020-07-02 13:22:53 +0800
 categories: notes
-tags: Spring
+tags: spring
 img: https://s1.ax1x.com/2020/07/02/NqzFiV.png
 ---
 =内部Bean的使用，工厂实例方法创建Bean，工厂实例方法创建Bean，自动注入，Bean的单例和多例
