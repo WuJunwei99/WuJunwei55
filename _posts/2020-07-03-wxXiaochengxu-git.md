@@ -4,7 +4,7 @@ title: "微信开发者工具的git版本控制"
 date: 2020-07-03 18:21:55 +0800
 categories: technology
 tags: 微信小程序 git
-img: https://s1.ax1x.com/2020/07/02/NqzFiV.png
+img: https://s1.ax1x.com/2020/07/04/NxZEr9.png
 ---
 Git 版本管理；Git 状态展示；微信开发工具使用git；
 
