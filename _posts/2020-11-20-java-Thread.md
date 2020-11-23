@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "面向对象特征"
+title: "多线程"
 date: 2020-11-20 10:45:33 +0800
 categories: notes
 tags: java
